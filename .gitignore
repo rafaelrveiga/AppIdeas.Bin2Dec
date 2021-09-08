@@ -1,0 +1,10 @@
+#folders
+.vscode
+[Dd]ebug
+[Rr]elease
+
+#files
+obj/Bin2Dec.csproj.nuget.dgspec.json
+obj/project.nuget.cache
+obj/project.assets.json
+obj/Bin2Dec.csproj.nuget.g.props
